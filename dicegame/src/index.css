@@ -1,0 +1,15 @@
+body {
+  background-color: lightpink;
+}
+
+button {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  width: 150px;
+  background-color: rgb(29, 221, 29);
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+
+}

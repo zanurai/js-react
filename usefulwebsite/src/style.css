@@ -1,0 +1,41 @@
+body {
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    background-color: yellow;
+    text-align: center;
+    height: 80px;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 0;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+p {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(197, 51, 136);
+    margin-top: 0;
+}
+
+button {
+    font-size: 30px;
+    font-weight: bold;
+    width: 170px;
+    height: 50px;
+    background-color: rgb(221, 94, 200);
+    color: white;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+div {
+    text-align: center;
+}
